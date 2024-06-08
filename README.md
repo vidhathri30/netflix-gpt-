@@ -17,6 +17,12 @@
   bugfix redirect if usernot logged in then redirect /browse to /
   unsubscribed to the onauthstatechange callback
   constant file to avoid hardcoding data
+   implemented signout
+  update profile
+  bugfix sign up user diplay name and profile picture update
+  bugfix redirect if usernot logged in then redirect /browse to /
+  unsubscribed to the onauthstatechange callback
+  constant file to avoid hardcoding data
 
 
 
