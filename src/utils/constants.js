@@ -4,3 +4,12 @@ export const LOGO_URL="https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-8
   
   export const USER_AVATAR =
   "https://occ-0-6247-2164.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6FpVELC5Pd6ovHRSk/AAAABdpkabKqQAxyWzo6QW_ZnPz1IZLqlmNfK-t4L1VIeV1DY00JhLo_LMVFp936keDxj-V5UELAVJrU--iUUY2MaDxQSSO-0qw.png?r=e6e";
+
+  export const API_OPTIONS =  {
+    method: 'GET',
+    headers: {
+      accept: 'application/json',
+      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3MmEzNDViZWI3MWMwMzdkZDIxNmE3NWE3OWVjMWYxZCIsInN1YiI6IjY2NjU4YWM2MGE2YTRjN2FkMWU5YWUyNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.GJw8Y_c0IKQYTaJrQQAstNWmZnQALPd3M91tfMsLTZ8'
+    }
+  };
+  

@@ -17,12 +17,27 @@
   bugfix redirect if usernot logged in then redirect /browse to /
   unsubscribed to the onauthstatechange callback
   constant file to avoid hardcoding data
-   implemented signout
-  update profile
-  bugfix sign up user diplay name and profile picture update
-  bugfix redirect if usernot logged in then redirect /browse to /
-  unsubscribed to the onauthstatechange callback
-  constant file to avoid hardcoding data
+  register to tmdb get api and get access token
+  get data from tmdb nowplaying movies
+  no create movie slice and add to store
+  later create useNowplayingmovies hook
+  create movieslice
+  add movieslice to store
+   MainContainer
+         trailer
+         movie title
+    SecondaryContainer
+          movielist*n
+           cardlist*n 
+ planning for main and secondary container
+ fetch data from trailer video
+ update store with trailer video data
+ embeed the youtube video and make it autoplay and mute
+ tailwind classes to make main container looks awesome
+
+
+
+
 
 
 
