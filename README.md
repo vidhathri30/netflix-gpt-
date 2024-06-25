@@ -34,6 +34,17 @@
  update store with trailer video data
  embeed the youtube video and make it autoplay and mute
  tailwind classes to make main container looks awesome
+ secondary component
+         {/* 
+      MovieList-Popular
+         MovieCard*n
+      MovieList- Now Playing
+      MovieList-Trending
+      MovieList-Horror   
+         */}
+
+
+
 
 
 
