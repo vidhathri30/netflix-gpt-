@@ -34,7 +34,7 @@
  update store with trailer video data
  embeed the youtube video and make it autoplay and mute
  tailwind classes to make main container looks awesome
- secondary component
+ build secondary component
          {/* 
       MovieList-Popular
          MovieCard*n
@@ -42,6 +42,14 @@
       MovieList-Trending
       MovieList-Horror   
          */}
+         build movielist
+         build moviecard
+ similar way create for popular ,top rated,upcoming  
+ GPT search features 
+ GPT Search Bar
+ Multi Language feature in app 
+ Integrate GPT api
+ get openai key    
 
 
 
