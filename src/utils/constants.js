@@ -20,4 +20,6 @@ export const LOGO_URL="https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-8
   {identifier:"hindi", name:"Hindi"},
   {identifier:"spanish", name:"Spanish"}
 ];
+
+export const OPEN_AI_KEY="AIzaSyAyS04Bb-y9QlqYE_BMPecAfFYrIxO9L_c";
   
